@@ -2,8 +2,13 @@
 pizza
 tacos
 sushi
+<<<<<<< HEAD
 =======
 young guns
 liar liar
 commando
 >>>>>>> movies
+=======
+:wq
+
+>>>>>>> foods
